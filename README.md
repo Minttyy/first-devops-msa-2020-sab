@@ -20,10 +20,6 @@ There is a continuous deployment to deploy the release to Azure only when new co
 
 The URL is: https://msa-2020-devops-submission-sab.azurewebsites.net/
 
-P.S: For some reason, the website link above does not work and I am not sure why
-
-Go to ![this link](https://github.com/Minttyy/try-again-devops-2020) for a working deployed website
-
 ### Author: Sabrina Teoh
 
 

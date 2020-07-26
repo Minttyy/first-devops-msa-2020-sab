@@ -7,7 +7,7 @@ This is where a build pipeline, release pipeline and a deployed website are need
 There is a continuous deployment which creates releases when new commits are made in either develop or master branches
 
 The following is what will occur: 
-* Node is installed first
+* Node is installed first to the project
 * We switch to the appropriate folder to use npm install and build
 * Files are archived into zip files so they can be publish as artifacts
 * Build Artifacts are used in the release pipeline to deploy the web app

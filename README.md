@@ -4,16 +4,22 @@ This is where a build pipeline, release pipeline and a deployed website are need
 
 ## Azure Build Pipeline
 
-Describe what you did here for build
+There is a continuous deployment which creates releases when new commits are made in either develop or master branches
+
+The following is what will occur: 
+* Node is installed first
+* We switch to the appropriate folder to use npm install and build
+* Files are archived into zip files so they can be publish as artifacts
+* Build Artifacts are used in the release pipeline to deploy the web app
 
 ## Azure Release Pipeline
 
-Describe what you did here for release
+There is a continuous deployment to deploy the release to Azure only when new commits occur in the master branch
 
 ## Deployed Website 
 
-The URL is: 
+The URL is: https://msa-2020-devops-submission-sab.azurewebsites.net/
 
-### Author
+### Author: Sabrina Teoh
 
-**Sabrina Teoh**
+

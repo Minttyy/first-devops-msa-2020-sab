@@ -18,7 +18,7 @@ There is a continuous deployment to deploy the release to Azure only when new co
 
 ## Deployed Website 
 
-The URL is: https://msa-2020-devops-submission-sab.azurewebsites.net/
+The URL is: https://first-devops-msa-2020-sab.vercel.app/
 
 ### Author: Sabrina Teoh
 
